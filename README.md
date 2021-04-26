@@ -1,4 +1,7 @@
-# RecetasCompras
+### RecetasCompras
+
+Este proyecto nace como parte de un curso de desarrollo de aplicaciones de Angular, de modo que su objetivo principal
+es la incorporación y uso de las principales caracteristicas de Angular a la hora de desarrollar una aplicación Web.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
